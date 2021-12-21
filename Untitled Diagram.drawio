@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2021-12-21T01:31:38.084Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.0.0" etag="L-t2u75YMRMWq0v2-TM7" type="github"><diagram id="DsnrAJ4I21enGwkvYmd6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-21T01:32:13.346Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="rGMS2UH4EqXwVpeD8pZ4" version="16.0.0" type="github">
+  <diagram id="DsnrAJ4I21enGwkvYmd6" name="第 1 页">
+    <mxGraphModel dx="2889" dy="1199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;startSize=2;endSize=4;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-2" target="tHgF8ePvAhojGPIAZTLN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-2" value="前端&lt;br style=&quot;font-size: 14px;&quot;&gt;自动化&lt;br style=&quot;font-size: 14px;&quot;&gt;代码开发&lt;br style=&quot;font-size: 14px;&quot;&gt;计划" style="ellipse;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="310" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;endSize=4;startSize=2;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-4" target="tHgF8ePvAhojGPIAZTLN-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-4" value="完善开发流程&lt;br style=&quot;font-size: 14px;&quot;&gt;规定组件使用" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="430" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;endSize=4;startSize=2;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-6" target="tHgF8ePvAhojGPIAZTLN-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-6" value="规定前端规范&lt;br style=&quot;font-size: 14px;&quot;&gt;规定UI规范&lt;br style=&quot;font-size: 14px;&quot;&gt;规定交互规范" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="550" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;endSize=4;startSize=2;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-8" target="tHgF8ePvAhojGPIAZTLN-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-8" value="操作按钮列、表格列、表单项，全部可配置&lt;br style=&quot;font-size: 14px;&quot;&gt;与后端约定数据格式" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="670" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;endSize=4;startSize=2;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-10" target="tHgF8ePvAhojGPIAZTLN-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;封装公共组件&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;（表格列表、表单页、表单弹窗、删除提示、审批弹窗等）&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="790" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;endSize=4;startSize=2;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-12" target="tHgF8ePvAhojGPIAZTLN-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-12" value="前端半自动化：&lt;br style=&quot;font-size: 14px;&quot;&gt;通过使用前端常用代码与数据库配置对应数据 完成基本业务" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="910" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;endSize=4;startSize=2;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-14" target="tHgF8ePvAhojGPIAZTLN-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-14" value="前端自动化-第一步&lt;br style=&quot;font-size: 14px;&quot;&gt;搭建 前端自动化 项目&lt;br style=&quot;font-size: 14px;&quot;&gt;做到可视话配置动态按钮，生成sql语句" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="910" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;endSize=4;startSize=2;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-16" target="tHgF8ePvAhojGPIAZTLN-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-16" value="前端自动化-第二步&lt;br style=&quot;font-size: 14px;&quot;&gt;做到可视化配置动态表单项，生成sql语句与前端代码" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="790" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;endSize=4;startSize=2;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-18" target="tHgF8ePvAhojGPIAZTLN-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-18" value="前端自动化-第三步&lt;br style=&quot;font-size: 14px;&quot;&gt;做到可视化配置动表格列，生成sql语句与前端代码" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="670" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;endSize=4;startSize=2;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-20" target="tHgF8ePvAhojGPIAZTLN-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-20" value="前端自动化-第四步&lt;br style=&quot;font-size: 14px;&quot;&gt;关联表格列与表单项，通过选择表单项生成表格列或选择表格列生成表单项" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#004C99;strokeWidth=2;shape=flexArrow;endSize=4;startSize=2;" edge="1" parent="1" source="tHgF8ePvAhojGPIAZTLN-22" target="tHgF8ePvAhojGPIAZTLN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-22" value="前端自动化-第五步&lt;br style=&quot;font-size: 14px;&quot;&gt;完成按钮列、表格列、表单数据 集成sql&lt;br style=&quot;font-size: 14px;&quot;&gt;生成前端 js、jsx文件" style="whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tHgF8ePvAhojGPIAZTLN-23" value="前端&lt;br style=&quot;font-size: 14px;&quot;&gt;自动化&lt;br style=&quot;font-size: 14px;&quot;&gt;代码开发&lt;br style=&quot;font-size: 14px;&quot;&gt;完成" style="ellipse;whiteSpace=wrap;html=1;fillColor=#66B2FF;strokeColor=#3399FF;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="160" y="310" width="160" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
