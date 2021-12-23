@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T01:43:02.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EQ2b7IY2D45up56AjfTc" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T01:43:25.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8d531-E7XSJRdrpQf5Eo" version="16.0.0" type="github">
   <diagram id="pnc9XeVYuBYuUG85XGpE" name="第 1 页">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
           <mxGeometry x="570" y="760" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-96" value="两个菜单（复制下发采集页面页面&lt;br&gt;页面，并优化， 新建任务页面完全重写" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#B20000;fillColor=#e51400;fontSize=15;fontColor=#ffffff;rounded=1;glass=0;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="796" y="480" width="270" height="40" as="geometry" />
+          <mxGeometry x="795" y="480" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
