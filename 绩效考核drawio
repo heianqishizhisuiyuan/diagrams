@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-23T01:43:25.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8d531-E7XSJRdrpQf5Eo" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-23T01:48:03.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="IMaj4Xnh9ZwebrqtjoTm" version="16.0.0" type="github">
   <diagram id="pnc9XeVYuBYuUG85XGpE" name="第 1 页">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,19 +12,16 @@
             <mxPoint x="188" y="440" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-34" value="绩效考核" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="110" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-34" value="绩效考核" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-38" value="考核结果管理&lt;br style=&quot;font-size: 15px;&quot;&gt;" style="whiteSpace=wrap;html=1;arcSize=0;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="265" y="760" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-39" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="D3Ujqo9AqhEUL6Vavxfa-38" parent="1" source="D3Ujqo9AqhEUL6Vavxfa-34">
+        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-39" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=1.008;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="D3Ujqo9AqhEUL6Vavxfa-38" parent="1" source="D3Ujqo9AqhEUL6Vavxfa-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="450" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-40" value="考核任务管理" style="whiteSpace=wrap;html=1;arcSize=3;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="255" y="585" width="140" height="30" as="geometry" />
+          <mxGeometry x="260" y="585" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-41" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;exitX=1;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="D3Ujqo9AqhEUL6Vavxfa-40" parent="1" source="D3Ujqo9AqhEUL6Vavxfa-34">
           <mxGeometry relative="1" as="geometry">
@@ -53,7 +50,7 @@
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-50" value="考核指标管理" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="425" y="320" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-51" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;fontSize=15;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" target="D3Ujqo9AqhEUL6Vavxfa-50" parent="1" source="D3Ujqo9AqhEUL6Vavxfa-32">
+        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-51" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="D3Ujqo9AqhEUL6Vavxfa-50" parent="1" source="D3Ujqo9AqhEUL6Vavxfa-32">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="370" as="sourcePoint" />
           </mxGeometry>
@@ -61,9 +58,9 @@
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-54" value="进度跟踪" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="430" y="690" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-55" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;fontSize=15;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" target="D3Ujqo9AqhEUL6Vavxfa-54" parent="1" source="D3Ujqo9AqhEUL6Vavxfa-40">
+        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-55" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;fontSize=15;" edge="1" target="D3Ujqo9AqhEUL6Vavxfa-54" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="400" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-56" value="发起考核任务" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" vertex="1" parent="1">
@@ -83,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-61" value="考核结果列表" style="whiteSpace=wrap;html=1;shape=partialRectangle;top=0;left=0;bottom=1;right=0;points=[[0,1],[1,1]];fillColor=none;align=center;verticalAlign=bottom;routingCenterY=0.5;snapToPoint=1;recursiveResize=0;autosize=1;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="450" y="760" width="120" height="20" as="geometry" />
+          <mxGeometry x="450" y="790" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-62" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;fontSize=15;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="D3Ujqo9AqhEUL6Vavxfa-61" parent="1" source="D3Ujqo9AqhEUL6Vavxfa-38">
           <mxGeometry relative="1" as="geometry">
@@ -126,20 +123,29 @@
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-91" value="新建任务页面（新加功能）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="560" y="530" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-95" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;flipH=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="775" y="450" width="20" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-97" value="业务处理（节点支持权限配置）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="545" y="585" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-95" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;flipH=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="775" y="450" width="20" height="100" as="geometry" />
         </mxCell>
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-98" value="进度跟踪（完全复用）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#2D7600;fillColor=#60a917;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="510" y="690" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-99" value="新增功能" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#B20000;fillColor=#e51400;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="570" y="760" width="80" height="20" as="geometry" />
+          <mxGeometry x="570" y="790" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="D3Ujqo9AqhEUL6Vavxfa-96" value="两个菜单（复制下发采集页面页面&lt;br&gt;页面，并优化， 新建任务页面完全重写" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#B20000;fillColor=#e51400;fontSize=15;fontColor=#ffffff;rounded=1;glass=0;sketch=0;" vertex="1" parent="1">
           <mxGeometry x="795" y="480" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-38" value="考核结果管理&lt;br style=&quot;font-size: 15px;&quot;&gt;" style="whiteSpace=wrap;html=1;arcSize=0;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="790" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-102" value="考核任务管理" style="whiteSpace=wrap;html=1;arcSize=3;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=16;fontStyle=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="580" width="140" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="D3Ujqo9AqhEUL6Vavxfa-103" value="考核模板管理" style="whiteSpace=wrap;html=1;arcSize=0;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1};fontSize=15;fontStyle=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="235" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
